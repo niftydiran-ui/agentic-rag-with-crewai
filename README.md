@@ -55,9 +55,9 @@ Let's create wonders together with the power and simplicity of crewAI.
 
 ## About the Maintainer
 
-This Agenticrag Crew project is actively maintained by Mustaq Sohail Shaik, a Software Engineer with a passion for architecting and deploying intelligent systems. Mustaq leverages expertise in machine learning, data engineering, and scalable software design to enhance automation and deliver AI-driven solutions.
-
-Connect with Mustaq:
-- GitHub: [github.com/dirandodda](https://github.com/dirandodda)
-- LinkedIn: [Mustaq Sohail Shaik](https://www.linkedin.com/in/mustaq-sohail-shaik-2224482a8/)
-- Email: sohailshaik8255@gmail.com
+This Agenticrag Crew project is actively maintained by **Diran Dodda**, AI Engineer specializing in intelligent systems, LLMs, and multi-agent architectures. Developed an agent-based Al financial analyst processing 200GB+ data with automated decision-making and NLP models achieving 92% accuracy (published). Built a real-time BERT-driven sentiment analysis system supporting 15K inferences per
+minute.
+Proficient in LangChain, OpenAl APIs, Transformers, RAG systems, and production-grade Al
+deployments on AWS.
+- **GitHub:** [github.com/dirandodda](https://github.com/dirandodda)
+- **Email:** doddadiran@gmail.com 
